@@ -5,7 +5,9 @@
 **As 3 características** que predominam na mentalidade de quem testa:
 
 1 – Precisa validar que o produto atenda às expectativas do meu cliente. (_ele precisa ter uma experiência satisfatória com uso do software, por isso você primeiro precisa entender quais são as expectativas_  _do cliente_)
+
 2 - Tenho de antecipar comportamentos inesperados e alertar os riscos ao meu time. (_não esperar a aplicação ficar pronta_)
+
 3 – É minha missão disseminar essa mentalidade dentre meus colegas. (_treinar, passar para frente esse conhecimento_)
 
 CLIENTES – Alguém que testa uma aplicação pode ter diferentes clientes, por exemplo: o **usuário**, o **desenvolvedor**, o **Product Owner (PO)**, **analista de suporte** e um **sistema terceiro** que utilizará sua API, **etc**.
